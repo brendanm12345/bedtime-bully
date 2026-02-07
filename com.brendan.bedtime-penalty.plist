@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.brendan.bedtime-penalty</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/brendanmclaughlin/.nvm/versions/node/v22.17.1/bin/node</string>
+        <string>/Users/brendanmclaughlin/Documents/code/oura/main.js</string>
+    </array>
+    <key>WorkingDirectory</key>
+    <string>/Users/brendanmclaughlin/Documents/code/oura</string>
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>9</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+    <key>StandardOutPath</key>
+    <string>/Users/brendanmclaughlin/Documents/code/oura/bedtime.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/brendanmclaughlin/Documents/code/oura/bedtime-error.log</string>
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>

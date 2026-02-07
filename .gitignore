@@ -1,0 +1,4 @@
+node_modules/
+.env
+bedtime.log
+bedtime-error.log
