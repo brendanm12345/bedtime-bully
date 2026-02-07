@@ -1,6 +1,6 @@
-# Bedtime Bully
+# Bedtime Bully 🛌👨🏻‍⚖️
 
-Bedtime Bully is a simple app that Venmos your friend $1 every night you don't go to bed on time. Put your money where your sleep is. 
+Bedtime Bully is a simple app that Venmos your friend $1 every night you don't go to bed on time. Put your money where your sleep is 😴. 
 
 ## How It Works
 
