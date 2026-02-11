@@ -9,8 +9,8 @@ const MY_EMAIL = process.env.MY_EMAIL;
 const FRIEND_EMAIL = process.env.FRIEND_EMAIL;
 const EMAIL_APP_PASSWORD = process.env.EMAIL_APP_PASSWORD;
 
-const TARGET_BEDTIME_HOUR = 0; // midnight
-const TARGET_BEDTIME_MINUTE = 30;
+const TARGET_BEDTIME_HOUR = 1; // midnight
+const TARGET_BEDTIME_MINUTE = 0;
 const PENALTY_AMOUNT = 1;
 
 // Sunday = 0, Monday = 1, ... Saturday = 6

@@ -16,7 +16,7 @@
         <key>Hour</key>
         <integer>9</integer>
         <key>Minute</key>
-        <integer>0</integer>
+        <integer>45</integer>
     </dict>
     <key>StandardOutPath</key>
     <string>/Users/brendanmclaughlin/Documents/code/oura/bedtime.log</string>
