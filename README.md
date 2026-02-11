@@ -1,15 +1,15 @@
-# Bedtime Penalty App
+# Bedtime Bully 🛌👨🏻‍⚖️
 
-Automatically sends yourself a Venmo payment link if you don't go to bed on time, with your accountability partner CC'd.
-
-Warning: BYO Oura Ring.
+Bedtime Bully is a simple app that Venmos your friend $1 every night you don't go to bed on time. Put your money where your sleep is 😴. 
 
 ## How It Works
 
 1. Fetches your sleep data from Oura Ring API each morning
-2. Checks if you went to bed after midnight (the target bedtime)
+2. Checks if you fell asleep after 12:30am (the target bedtime)
 3. If late, sends an email to you (with your friend CC'd 😉) containing a Venmo payment link
 4. You click the link to pay your $1 penalty
+
+Warning: BYO Oura Ring.
 
 ## Setup
 
